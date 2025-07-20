@@ -18,26 +18,12 @@ With over **5 years of experience** in software quality engineering, I’ve deli
 
 #### 🏦 **JPMorgan Chase & Co.** — *Associate Test Automation Specialist*  
 *Jan 2022 – Present | Bangalore, India (Hybrid)*  
-- Leading automation efforts using Java, Selenium, and Playwright  
-- Developed and maintained end-to-end test suites  
-- Improved test coverage and reduced manual regression efforts  
 
 #### 👨‍💻 **Software Engineer**  
 *Jul 2020 – Jan 2022 | Bangalore, India*  
-- Built and optimized test cases using automation frameworks  
-- Collaborated closely with cross-functional teams  
-
-🎖 **Impact Award 2020**  
-Saved over **300+ hours** of manual work by automating key test scenarios and identifying critical bugs.
 
 #### 🧪 **QA & Automation Engineer, Wipro Ltd.**  
 *Jul 2018 – Nov 2019 | Kochi, Kerala*  
-- Created automated test scripts with Java + Selenium  
-- Managed defects using JIRA, and executed tests via Jenkins & Sauce Labs  
-- Actively contributed to early testing cycles and agile processes  
-
-🏅 **Best Developer 2019**  
-Recognized for excellence in converting manual test cases to automated solutions.
 
 ---
 
